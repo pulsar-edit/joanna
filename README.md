@@ -1,3 +1,5 @@
+# This repo is deprecated! Pulsar Edit will be moving to JSDoc to document the code
+
 # Joanna
 
 [![CI](https://github.com/atom/joanna/actions/workflows/ci.yml/badge.svg)](https://github.com/atom/joanna/actions/workflows/ci.yml)
